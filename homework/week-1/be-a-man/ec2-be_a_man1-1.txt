@@ -67,7 +67,7 @@ echo "
         <h1>🇯🇵「Be A Man Challenge 1.1」</h1>
       <h1>　</h1>
         <h1>I, A.D. Bailey, Thank Theo先生 and Carlton, For Teaching Me About Ec2s In Aws. One Step Closer To Megumi !
-"With This Class, I Will Net $175K💰 Per Year!"
+"With This Class, I Will Net $ 175K💰 Per Year!"
 </h1>
       
         <br>
